@@ -1,0 +1,43 @@
+body {
+	text-align: center;
+	background-color: #A11111;
+	font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+	color: turquoise;
+	border: double 5px rgb(189, 8, 28);
+	font-family: 'Oswald', sans-serif;
+	border-top-left-radius: 10px;
+	border-top-left-radius: 5px;
+	background-color: #000000;
+}
+#first {
+
+	text-align: center;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+}
+#second {
+	text-align: left;
+	font-style: oblique;
+	color: #ffffff
+	font-family: 'Oswald', sans-serif;
+}
+#third {
+	font-weight: bold;
+	text-align: right;
+	text-decoration: underline;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+}
+a {
+	text-decoration: none;
+	color: #fd1d1d;
+}
+.paragraph {
+	color: white;
+}
+#first, #second, #third {
+	background-color: black;
+}

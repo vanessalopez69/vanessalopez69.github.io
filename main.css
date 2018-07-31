@@ -1,0 +1,57 @@
+body {
+text-align: right;
+font-family: 'Arapey', serif;
+color: white;
+background-image: url("unsplash41.jpg");
+background-position: center center;
+background-attachment: fixed;
+background-repeat: repeat;
+margin: 0;
+	background-size: 100% 100%
+
+}
+
+h1 {
+	text-align: center;
+}
+/*.top_nav_item:hover {
+	margin:10px;
+	text-decoration: none;
+	color:pink;*/
+}
+#current_page {
+	text-decoration: underline;
+	border-bottom: 2px solid blue;
+}
+.top_nav_item {
+	text-align: right;
+	margin:10px;
+	text-decoration: none;
+	color:white;
+	margin: none;
+}
+
+#title {
+	margin: 50px auto;
+	background-color: rgba(208, 216, 215, .5);
+	width: 75%;
+	height: 75%;
+	padding: 20px;
+	font-size: 2em;
+	text-align: center;
+
+}
+
+li {
+	display: inline;
+	transition: all 0.5s ease;
+}
+
+h1 {
+	border: none;
+	background-color: none;
+	border-bottom-left-radius: none;
+	border-bottom-right-radius: none;
+	border-top-left-radius: none;
+	border-top-right-radius: none;
+}

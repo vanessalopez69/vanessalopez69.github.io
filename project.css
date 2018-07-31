@@ -1,0 +1,26 @@
+table,td {
+	border: solid 2px;
+	text-align: center;
+}
+
+table {
+	border-collapse: collapse;
+	width: 80%;
+	margin: center;
+	text-align:center ;
+}
+#col1 {
+	width: 40%;
+}
+
+#col2, #col3 {
+	width: 40%;
+}
+td:first-child {
+	text-align: left;
+}
+
+#smash {
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
